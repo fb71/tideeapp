@@ -51,6 +51,7 @@
 			<remoteRepository refid="intalio.repository" />
 
             <dependency groupId="org.deeplearning4j" artifactId="deeplearning4j-core" version="1.0.0-alpha" />
+            <dependency groupId="org.deeplearning4j" artifactId="deeplearning4j-zoo" version="1.0.0-alpha" />
             <dependency groupId="org.nd4j" artifactId="nd4j-native-platform" version="1.0.0-alpha" />
             <dependency groupId="org.slf4j" artifactId="slf4j-simple" version="1.7.12" />
 		</artifact:dependencies>

@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="lib/deeplearning4j-zoo-1.0.0-alpha.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/slf4j-simple-1.7.12.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mkl-2018.1-1.4.1-linux-x86_64.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/nd4j-native-1.0.0-alpha-linux-x86_64.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/openblas-0.2.20-1.4.1-linux-x86_64.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mkl-2018.1-1.4.1-linux-x86.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mkl-2018.1-1.4.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/mkl-platform-2018.1-1.4.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/nd4j-native-1.0.0-alpha.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/nd4j-native-api-1.0.0-alpha.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/nd4j-native-platform-1.0.0-alpha.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/openblas-0.2.20-1.4.1-linux-x86.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/openblas-0.2.20-1.4.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/openblas-platform-0.2.20-1.4.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/annotations-13.0.jar"/>
